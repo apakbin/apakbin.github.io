@@ -8,9 +8,9 @@ Please check out the [demo](https://ngzhio.github.io/jekyll-theme-hamilton/).
 
 | Skins | Displays |
 | ----- | -------- |
-| Daylight | ![screenshot](screenshot.png) |
-| sunrise/Sunset | ![screenshot](screenshot-sunrise.png) |
-| Midnight | ![screenshot](screenshot-midnight.png) |
+| daylight | ![screenshot](screenshot.png) |
+| sunrise/sunset | ![screenshot](screenshot-sunrise.png) |
+| midnight | ![screenshot](screenshot-midnight.png) |
 
 ## Features <!-- omit in toc -->
 
