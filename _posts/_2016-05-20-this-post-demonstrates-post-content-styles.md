@@ -1,8 +1,8 @@
 ---
 layout: post
-toc: true
-title: "This post demonstrates post content styles"
-categories: junk
+#toc: true
+title: "This post demonstrates post content SSSSstyles"
+#categories: junk
 tags: [markdown, css, html]
 author:
   - Bart Simpson
