@@ -5,7 +5,7 @@ author: Arash Pakbin
 avatar: /logo.jpeg
 email: a.pakbin@tamu.edu
 location: College Station, TX
-skin: Daylight # Midnight, Daylight, Sunrise/Sunset
+skin: Daylight # Midnight, Daylight, sunrise/Sunset
 
 plugins:
   - jekyll-seo-tag
