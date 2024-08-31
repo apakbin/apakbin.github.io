@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Arash Pakbin
+#title: Arash Pakbin
 ---
 
 # Howdy!
@@ -51,6 +51,7 @@ Here is a selection of my key projects, along with an overview of each.
   <li style="text-align: justify;margin-bottom: 5px;">Achieved <span style="font-family: Courier New;">AUROC</span> of 0.86 and <span style="font-family: Courier New;">AUCPR</span> of 0.35 by combining clinical text data with time-series data.</li>
   <li style="text-align: justify;margin-bottom: 5px;">Used a <span style="font-family: Courier New;">T5</span> language model to extract numerical representations from clinical notes.</li>
   <li style="text-align: justify;margin-bottom: 5px;">Reduced inference latency by 8 times with <span style="font-family: Courier New;">PyTorch</span> multiprocessing for multi-GPU inference.</li>
+  <li style="text-align: justify;margin-bottom: 5px;">Supervised and mentored an undergraduate student throughout this project.</li>
 </ul>
 
 <hr style="width:50%; margin-left:25% !important; margin-right:25% !important;" />
@@ -67,6 +68,15 @@ Here is a selection of my key projects, along with an overview of each.
   <li style="text-align: justify;margin-bottom: 5px;">Published <span style="font-family: Courier New;">BoXHED1.0</span> at <a href="http://proceedings.mlr.press/v119/wang20o/wang20o.pdf">ICML</a> and <span style="font-family: Courier New;">BoXHED2.0</span> in <strong>Journal of Statistical Software</strong> (preprint on <a href="https://arxiv.org/abs/2103.12591">arXiv</a>).</li>
   <li style="text-align: justify;margin-bottom: 5px;">Integrated code with the <span style="font-family: Courier New;">XGBoost</span> library codebase and made available on <span style="font-family: Courier New;">PyPI</span>.</li>
   <li style="text-align: justify;margin-bottom: 5px;">Open-source code is accessible on <a href="https://github.com/BoXHED/BoXHED2.0-source-code">Github</a>.</li>
+</ul>
+
+***
+
+<h2 style="margin-bottom: 10px;">Teaching Experience</h2>
+
+<ul>
+  <li style="text-align: justify;margin-bottom: 10px;">Served as a Teaching Assistant for multiple semesters in Machine Learning (graduate and undergraduate), Information Retrieval (undergraduate), and Operating Systems (undergraduate).</li>
+  <li style="text-align: justify;margin-bottom: 10px;"> Delivered lectures on <span style="font-family: Courier New;">Python</span> coding as part of the Machine Learning course.</li>
 </ul>
 
 ***
