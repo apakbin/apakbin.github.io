@@ -41,7 +41,7 @@ Here is a selection of my key projects, along with an overview of each.
 <hr style="width:50%; margin-left:25% !important; margin-right:25% !important;" />
 
 <h3 style="margin-bottom: 0px;">Real-time, Multimodal Invasive Ventilation Risk Monitoring using Language Models and BoXHED</h3>
-<h6 style="margin-bottom: 5px;">Jan 2024 -- Aug 2024</h6>
+<h6 style="margin-bottom: 5px;">Nov 2023 -- Jun 2024</h6>
 <div style="text-align: center; margin-bottom: 15px;">
         <img src="/assets/figs/mmb.png" width="600" height="auto" class="center">
 </div>
