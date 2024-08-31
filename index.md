@@ -30,7 +30,7 @@ layout: home
 Here is a selection of my key projects, along with an overview of each.
 
 <h3 style="margin-bottom: 0px;">Text Summarization for Multimodal Pretraining of Medical Data</h3>
-<h6 style="margin-bottom: 5px;">Aug 2024 – Present</h6>
+<h6 style="margin-bottom: 5px;">May 2024 – Present</h6>
 <ul>
   <li style="text-align: justify;margin-bottom: 5px;">ICU clinical notes can be lengthy, requiring large context lengths for language models to capture the full content.</li>
   <li style="text-align: justify;margin-bottom: 5px;">Training language models with large context lengths is computationally prohibitive.</li>
